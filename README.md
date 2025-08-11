@@ -38,22 +38,22 @@ O programa inclui ainda um menu interativo que permite consultar os dados, como 
 
 ### Instalação e Utilização
 1. Clonar o repositório
- ```bash
+```bash
 https://github.com/RoxanneJCoelho/web-scraping-books
 ```
 
 2. Aceder a pasta do projeto
-  ```bash
+```bash
 cd web-scraping-books                             
 ```
 
 3. Instalar as dependências
-   ```bash
+```bash
 pip install requests beautifulsoup4                            
 ```
    
 4. Executar o programa
-  ```bash
+```bash
 python "trabalho final web scraping.py"                         
 ```
 
@@ -105,22 +105,22 @@ The program also provides an interactive menu to query the data, including filte
 
 ### Installation & Usage
 1. Clone the repository
- ```bash
+```bash
 https://github.com/RoxanneJCoelho/web-scraping-books
 ```
 
 2. Navigate to the project folder
-  ```bash
+```bash
 cd web-scraping-books                             
 ```
 
 3. Install dependencies
-   ```bash
+```bash
 pip install requests beautifulsoup4                            
 ```
    
 4. Run the scraper and menu
-  ```bash
+```bash
 python "trabalho final web scraping.py"                         
 ```
 
