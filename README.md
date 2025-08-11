@@ -63,7 +63,7 @@ python "trabalho final web scraping.py"
 - O ficheiro JSON (books.json) é criado automaticamente após a primeira execução do scraping.
 - Projeto criado para fins educativos e pode ser expandido para projetos mais complexos de web scraping.
 
-  ---
+---
 
 # [ENG] Book Scraper 📖 - Python Web Scraping Project
 
